@@ -1,0 +1,11 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+pillow>=10.2.0
+numpy>=1.26.0
+pydantic>=2.6.0
+aiofiles>=23.2.1
+torch>=2.2.0
+torchvision>=0.17.0
+basicsr>=1.4.2
+realesrgan>=0.3.0

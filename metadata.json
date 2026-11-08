@@ -1,0 +1,6 @@
+{
+  "name": "Upscaler Pro",
+  "description": "Professional cloud-based AI image upscaler with bulk processing, zero client workload, reliable ZIP archive generation, and customizable DPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
